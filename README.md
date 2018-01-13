@@ -1,4 +1,4 @@
-# Augmentation
+# Augmentation with multiprocessing and bounding box rotation
 This small script for rotate and change brightness on input images with bounding boxes in pickle file.
 Typicle case of use is ML for CNN and computer vision image augmentation. 
 Script uses multiprocessing and can adjust throughput.
